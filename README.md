@@ -18,6 +18,7 @@ Segment customers into meaningful groups
 Recommend targeted marketing packages for each segment
 
 ## Dataset
+[Link to dataset](https://maven-datasets.s3.amazonaws.com/Bank+Customer+Churn/Bank+Customer+Churn.zip)
 
 ~10,000 bank customers
 
